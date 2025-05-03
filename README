@@ -1,0 +1,27 @@
+
+## API base de datos
+
+#### Get all items
+
+```http
+  Base de datos para guardar informacion en json o similares 
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_node` | `string` | **Requiere**.  Node.Js lasted|
+
+#### optencion de informacion
+
+```http
+  creado en react y typescript
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `parametros principales`      | `/bd/escuela/get` | **Requiere**. la informacion encriptada |
+
+#### add for more in the future
+
+se expandira la bd de json en el futuro.
+
