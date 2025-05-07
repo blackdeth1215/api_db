@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/blackdeth1215/api_db#readme",
   "dependencies": {
+    "api_db": "file:",
     "express": "^5.1.0",
     "javascript-obfuscator": "^4.1.1"
   },
